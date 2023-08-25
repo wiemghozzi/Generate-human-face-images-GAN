@@ -29,7 +29,7 @@ Within this directory, our refined GAN models are securely stored as ".h5" files
 A repository of the faux images crafted by our GAN model. These depictions illustrate the model's capability to emulate genuine human faces.
 
 ### README.md: 
-A foundational markdown document that demystifies our project. It furnishes visitors with a comprehensive view of the project's objectives, its application, and guidelines on utilization or contribution.
+A foundational markdown document that demystifies our project. It furnishes visitors with a comprehensive view of the project's objectives, and guidelines on utilization.
 
 ### Untitled1.ipynb:
 
